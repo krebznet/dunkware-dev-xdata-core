@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.dunkware.dev</groupId>
 	<artifactId>dev-xdata-core</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>dev-xdata-core</name>
 	<description>maven-archtype-jar.</description>
